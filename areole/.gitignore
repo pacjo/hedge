@@ -1,0 +1,9 @@
+# devenv
+.devenv
+
+# platformio
+compile_commands.json
+.pio
+
+# generic/clang(d)
+.cache

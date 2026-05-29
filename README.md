@@ -1,5 +1,8 @@
 # Hedge
 
+Private and local alternative to Tuya/ESPHome/Tasmota as well as related tooling.
+
+
 ## Areole
 
 - device/node firmware

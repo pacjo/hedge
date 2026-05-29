@@ -1,4 +1,5 @@
-- installation somewhat follows: https://www.eisfunke.com/posts/2023/nixos-on-raspberry-pi.html
+> [!NOTE]  
+> installation somewhat follows: https://www.eisfunke.com/posts/2023/nixos-on-raspberry-pi.html
 
 # Requirements
 
